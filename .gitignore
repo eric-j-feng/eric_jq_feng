@@ -1,0 +1,22 @@
+# Things intentionally hidden
+credentials.json
+token.json
+README-cloudshell.txt
+messages.csv
+
+# Config stuff
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.viminfo
+.vscode/settings.json
+.cache
+.codeoss
+.npm
+.local
+h_history
+.lesshst
+.config/powershell
+.docker
