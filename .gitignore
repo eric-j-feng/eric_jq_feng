@@ -20,3 +20,4 @@ h_history
 .lesshst
 .config/powershell
 .docker
+.gitconfig
